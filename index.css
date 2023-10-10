@@ -1,0 +1,66 @@
+.header1{
+    background-color: #a57a2ac4;
+    height: 90px;
+    text-align: left;
+    font-size: larger;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #000000;
+    border-radius: 10px;
+}
+
+.info{
+    background-color: yellowgreen;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+    height: 80px;
+    width: 20%;
+    font-weight: 200;
+    position:relative;
+    bottom: 100px;px;
+    left: 450px;
+    border-radius: 50px;
+    
+}
+
+.Courses{
+    background-color: #00ff88;
+    background-position: 500px;
+    clip-path: margin-box;
+    border-radius: 50px;   
+}
+
+#title{
+    color: rgb(240, 255, 250);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500px;
+}
+
+#Course-1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-display: 500px;
+    text-align: center;
+
+}
+
+#Course-2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-display: 500px;
+    text-align: center;
+}
+
+#Course-3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-display: 500px;
+    text-align: center;
+}
+
+.footer{
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: solid;
+    
+}
