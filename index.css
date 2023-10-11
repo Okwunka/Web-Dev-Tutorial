@@ -1,66 +1,34 @@
-.header1{
-    background-color: #a57a2ac4;
-    height: 90px;
-    text-align: left;
-    font-size: larger;
-    font-weight: 400;
+.header{
     font-family: Arial, Helvetica, sans-serif;
-    color: #000000;
+    background-color: rgba(0, 0, 0, 0.7);
     border-radius: 10px;
+    font-display: 20px;
+    text-align: center;
+    color: white;
+}
+.background{
+    background: url(./school.jpg);
+    background: url('./school.jpg') center/cover no-repeat;
+    color: white;
+    padding: 20px;
+    font-size: 18px
+}
+
+#list{
+    text-align: center;
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    padding-inline: 10px;
 }
 
 .info{
-    background-color: yellowgreen;
-    font-family: Arial, Helvetica, sans-serif;
-    font-style: oblique;
-    height: 80px;
-    width: 20%;
-    font-weight: 200;
-    position:relative;
-    bottom: 100px;px;
-    left: 450px;
-    border-radius: 50px;
-    
-}
-
-.Courses{
-    background-color: #00ff88;
-    background-position: 500px;
-    clip-path: margin-box;
-    border-radius: 50px;   
-}
-
-#title{
-    color: rgb(240, 255, 250);
-    text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: 500px;
-}
-
-#Course-1{
-    font-family: Arial, Helvetica, sans-serif;
-    font-style: italic;
-    font-display: 500px;
-    text-align: center;
-
-}
-
-#Course-2{
-    font-family: Arial, Helvetica, sans-serif;
-    font-style: italic;
-    font-display: 500px;
-    text-align: center;
-}
-
-#Course-3{
-    font-family: Arial, Helvetica, sans-serif;
-    font-style: italic;
-    font-display: 500px;
-    text-align: center;
+    background-color:rgb(169, 169, 169);
+    color: white;
+    position: relative;
 }
 
 .footer{
-    font-family: Arial, Helvetica, sans-serif;
-    text-decoration: solid;
-    
+    color: black;
+    font-weight: 10px;
 }
