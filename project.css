@@ -1,5 +1,5 @@
 div{
-    width: 1440px;
+    width: 1408px;
     height: 615px;    
 }
 div .title{
@@ -32,25 +32,25 @@ div .content{
 .one{
     position: absolute;
     top: 126px;
-    left: 170px;
+    left: 105px;
     
 }
 .two{
     position: absolute;
     top: 345px;
-    left: 170px;
+    left: 105px;
     bottom: 126px;
 }
 .three{
     position: absolute;
     top: 345px;
-    left: 533px;
+    left: 468px;
     bottom: 126px;
 }
 
 .four{
     position: absolute;
     top: 126px;
-    left: 533px;
+    left: 468px;
     bottom: 126px;
 }
