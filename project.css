@@ -1,6 +1,6 @@
 div{
-    width: 400px;
-    height: 615px;
+    width: 1440px;
+    height: 615px;    
 }
 div .title{
     color: #091133;
@@ -19,13 +19,13 @@ div .content{
     margin: 0px;
 }
 
-.wrapper1{
+.wrapper{
     display: flex;
     flex-direction: row; 
 }
-.wrapper{
-    width: 100vw;
+.design{
     display: flex;
+    border: 1px solid black;
 
     position: relative;
 }
